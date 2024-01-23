@@ -8,7 +8,7 @@ Increment/decrement functionality
 Reactive and auto-tracked state using React Signals
 Grouped state updates for performance optimization
 
-##Setup
+## Setup
 Clone the repo and navigate to its directory.
 Install dependencies: npm install
 Run the app: npm start
